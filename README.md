@@ -18,6 +18,6 @@
     <li>Vibhor Mahajan</li>
   </ul>
 
-### For my developer friends, just copy porject files to your folder then use "npm install" in terminal to install all node pakages then use "npm start" to start developement server.
+### For my developer friends, just copy project files to your folder then use "npm install" in terminal to install all node pakages then use "npm start" to start developement server.
 
 ### If something goes wrong then email me on "real.vibs@gmail.com"
